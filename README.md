@@ -15,12 +15,16 @@
 
 EER Diagram
 -------
+[![image]](https://github.com/momodidi119/Supermarket-Database-Design/blob/main/img/eer.png)
 
 Normalized Relational Schema
 -----------
+
+[![image]](https://github.com/momodidi119/Supermarket-Database-Design/blob/main/img/RS3nf.png)
 
 Database Creation and Query
 --------
 
 Dependency Diagram
 -----------
+[![image]](https://github.com/momodidi119/Supermarket-Database-Design/blob/main/img/DD.png)
