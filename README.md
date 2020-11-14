@@ -1,4 +1,4 @@
- Supermarket-Database-Design
+ Supermarket Database Design
  ==============
  Project Description
  ----------
